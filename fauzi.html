@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Daftar Kelulusan Siswa</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <ul class="bg-bubbles">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+
+  <div class="container">
+    <div class="profile-section">
+      <img src="image/profile.jpeg" alt="Profile Picture" class="profile-image">
+      <div class="profile-info">
+        <h2 class="profile-name">Neneng yulia S.Pd</h2>
+        <p class="profile-description">
+          Selamat datang di SMA NEGERI 1 BURU! Kami sangat senang dan bangga menyambut kalian sebagai bagian dari keluarga besar SMA NEGERI 1 BURU. Kami berharap kalian dapat menjadi bagian dari komunitas yang positif dan produktif, serta mencapai kesuksesan akademik dan pribadi
+        </p>
+      </div>
+    </div>
+    
+    <h1>Daftar Kelulusan Siswa</h1>
+
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Cari nama atau NISN..." autocomplete="off">
+    </div>
+
+    <div class="accordion" id="accordion">
+      <div class="accordion-header" onclick="toggleAccordion(this)">Lihat Daftar Siswa</div>
+      <div class="accordion-content">
+        <div class="loader" id="loader"></div>
+        <div class="student-list" id="studentList">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <h2 class="footer-title">Selamat datang</h2>
+    <p class="footer-subtitle">Kami berharap kalian dapat menjadi siswa yang aktif, kreatif, dan berprestasi. Jangan ragu untuk bergabung dengan kegiatan ekstrakurikuler yang sesuai dengan minat kalian.</p>
+    <div class="copyright">
+      © 2025 Daftar Kelulusan Siswa. Credate By Fauzi Alifatah & Megi Melasari.
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>x
+</html>
