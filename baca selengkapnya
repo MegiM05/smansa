@@ -1,6 +1,4 @@
-    footer {
-      background: #003366;
-      color: white;
+          color: white;
       text-align: center;
       padding: 15px;
       margin-top: 40px;
@@ -14,9 +12,53 @@
   <main class="container" role="main">
     <small>Diposting: 29 September 2025</small>
     <img src="images/osis.jpg" alt="Pelantikan Anggota OSIS 2025/2026" />
-    <p>Pelantikan pengurus OSIS baru telah dilaksanakan dengan penuh khidmat di lapangan upacara SMA Negeri 1 Buru. Acara ini dihadiri oleh seluruh siswa, guru, dan staf sekolah. Pengurus OSIS yang baru diharapkan dapat membawa perubahan positif dan meningkatkan kegiatan ekstrakurikuler di sekolah.</p>
-    <p>Dalam sambutannya, kepala sekolah menekankan pentingnya tanggung jawab dan kerja sama dalam menjalankan tugas OSIS. Selain itu, berbagai program kerja telah dirancang untuk mendukung pengembangan karakter dan bakat siswa.</p>
-    <p>Acara pelantikan juga dimeriahkan dengan penampilan seni dari siswa dan diakhiri dengan doa bersama untuk kelancaran kegiatan OSIS selama satu tahun ke depan.</p>
+    <p>Pelantikan Pengurus OSIS SMA Negeri 1 Buru Periode 2025/2026. Namlea, 29 September 2025 – SMA Negeri 1 Buru resmi melantik pengurus Organisasi Siswa Intra Sekolah (OSIS) periode 2025/2026 dalam sebuah upacara yang berlangsung khidmat di aula sekolah. Kegiatan ini dihadiri oleh Kepala Sekolah, dewan guru, staf tata usaha, serta seluruh siswa.</p>
+    <p>Pelantikan dimulai dengan menyanyikan lagu Indonesia Raya, dilanjutkan dengan pembacaan Surat Keputusan Kepala Sekolah tentang pengangkatan pengurus OSIS baru. Prosesi inti pelantikan dilakukan melalui pengucapan ikrar dan penandatanganan berita acara pelantikan.</p>
+    <p>Dalam sambutannya, Kepala SMA Negeri 1 Buru, Neneng Yulia, S.Pd menegaskan bahwa OSIS merupakan wadah penting bagi siswa untuk mengembangkan jiwa kepemimpinan, tanggung jawab, serta keterampilan berorganisasi. “Saya berharap pengurus OSIS yang baru dapat menjadi teladan, kreatif dalam melahirkan program, serta mampu berkolaborasi untuk memajukan sekolah,” ungkap beliau.</p>
+    <p>Ketua OSIS terpilih, Sadil Talessy, menyampaikan rasa syukur dan komitmennya untuk mengemban amanah dengan sebaik-baiknya. Ia juga mengajak seluruh siswa untuk bersama-sama mendukung program kerja OSIS demi terciptanya lingkungan sekolah yang lebih aktif, inovatif, dan berprestasi.</p>
+    <p>Dengan dilantiknya pengurus OSIS baru ini, SMA Negeri 1 Buru optimis dapat melanjutkan berbagai kegiatan positif yang dapat meningkatkan kualitas siswa, baik di bidang akademik maupun non-akademik.</p>
+    <a href="index.html" class="btn" aria-label="Kembali ke halaman utama Event & Berita">Kembali ke Beranda</a>
+    
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kunjungan Gubernur Maluku</h1>
+  </header>
+  <main class="container" role="main">
+    <small>Diposting: 09 September 2025</small>
+    <img src="images/gubernur.jpg" alt="Kunjungan Gubernur Maluku ke SMA Negeri 1 Buru" />
+    <p>Gubernur Maluku Lakukan Kunjungan ke SMA Negeri 1 Buru, 9 September 2025 – SMA Negeri 1 Buru mendapat kehormatan atas kunjungan kerja Gubernur Maluku, Bapak Hendrik Lewerissa, yang disambut meriah oleh keluarga besar sekolah. Kehadiran beliau menjadi bentuk nyata perhatian pemerintah daerah terhadap dunia pendidikan, khususnya dalam upaya peningkatan mutu sekolah menengah di Kabupaten Buru.</p>
+    <p>Dalam kunjungannya, Gubernur Maluku berkesempatan berdialog dengan kepala sekolah, dewan guru, serta perwakilan siswa. Ia menekankan pentingnya penguasaan teknologi dan peningkatan kualitas sumber daya manusia agar siswa SMA Negeri 1 Buru mampu bersaing di era global.</p>
+    <p>“Pendidikan adalah kunci utama membentuk generasi emas Maluku. Saya berharap dari sekolah ini lahir para pemimpin masa depan yang berkarakter, berprestasi, dan berdaya saing,” ungkap Gubernur dalam sambutannya.</p>
+    <p>Selain memberikan motivasi, Gubernur Maluku juga meninjau sarana dan prasarana sekolah, termasuk ruang kelas, laboratorium komputer, serta perpustakaan. Beliau berjanji akan mendukung peningkatan fasilitas pendidikan di SMA Negeri 1 Buru agar semakin representatif dan mendukung pembelajaran berbasis teknologi.</p>
+    <p>Kepala SMA Negeri 1 Buru, Neneng Yulia, S.Pd menyampaikan apresiasi yang tinggi atas kunjungan tersebut. “Kunjungan Bapak Gubernur memberikan semangat baru bagi kami untuk terus meningkatkan kualitas pembelajaran serta mencetak siswa-siswi berprestasi,” ucapnya.</p>
+    <a href="index.html" class="btn" aria-label="Kembali ke halaman utama Event & Berita">Kembali ke Beranda</a>
+  </main>
+    footer {
+      background: #003366;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Perayaan HUT RI ke-80</h1>
+  </header>
+  <main class="container" role="main">
+    <small>Diposting: 17 Agustus 2025</small>
+    <img src="images/hutri.jpg" alt="Perayaan HUT RI ke-80 di SMA Negeri 1 Buru" />
+    <p>SMA Negeri 1 Buru sukses mengadakan berbagai permainan dan lomba yang diikuti oleh seluruh siswa, guru, dan pegawai tata usaha dalam rangka memperingati Hari Kemerdekaan RI ke-80. Kegiatan ini bertujuan untuk mempererat rasa kebersamaan dan semangat nasionalisme di lingkungan sekolah.</p>
+    <p>Acara dimulai dengan upacara bendera yang khidmat, dilanjutkan dengan berbagai lomba tradisional seperti balap karung, tarik tambang, dan lomba makan kerupuk. Semua peserta sangat antusias dan penuh semangat dalam mengikuti kegiatan tersebut.</p>
+    <p>Selain itu, panitia juga menyediakan hadiah menarik untuk para pemenang lomba sebagai bentuk apresiasi atas partisipasi mereka. Perayaan ini menjadi momen yang berkesan dan memperkuat rasa cinta tanah air di kalangan siswa dan staf sekolah.</p>
     <a href="index.html" class="btn" aria-label="Kembali ke halaman utama Event & Berita">Kembali ke Beranda</a>
   </main>
   <footer>
@@ -24,3 +66,4 @@
   </footer>
 </body>
 </html>
+  
