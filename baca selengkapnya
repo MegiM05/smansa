@@ -1,0 +1,26 @@
+    footer {
+      background: #003366;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Pelantikan Anggota OSIS 2025/2026</h1>
+  </header>
+  <main class="container" role="main">
+    <small>Diposting: 29 September 2025</small>
+    <img src="images/osis.jpg" alt="Pelantikan Anggota OSIS 2025/2026" />
+    <p>Pelantikan pengurus OSIS baru telah dilaksanakan dengan penuh khidmat di lapangan upacara SMA Negeri 1 Buru. Acara ini dihadiri oleh seluruh siswa, guru, dan staf sekolah. Pengurus OSIS yang baru diharapkan dapat membawa perubahan positif dan meningkatkan kegiatan ekstrakurikuler di sekolah.</p>
+    <p>Dalam sambutannya, kepala sekolah menekankan pentingnya tanggung jawab dan kerja sama dalam menjalankan tugas OSIS. Selain itu, berbagai program kerja telah dirancang untuk mendukung pengembangan karakter dan bakat siswa.</p>
+    <p>Acara pelantikan juga dimeriahkan dengan penampilan seni dari siswa dan diakhiri dengan doa bersama untuk kelancaran kegiatan OSIS selama satu tahun ke depan.</p>
+    <a href="index.html" class="btn" aria-label="Kembali ke halaman utama Event & Berita">Kembali ke Beranda</a>
+  </main>
+  <footer>
+    <p>&copy; 2025 Megi Melasari | Event & Berita</p>
+  </footer>
+</body>
+</html>
